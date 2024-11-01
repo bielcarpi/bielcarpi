@@ -1,3 +1,3 @@
 # Biel Carpi
 
-App & Backend dev 
+Backend & Systems Architecture Engineer
